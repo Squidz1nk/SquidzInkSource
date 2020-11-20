@@ -1,6 +1,6 @@
 {
     "uuid": "uuid-1605660464211-764276779",
-    "name": "squidzink",
+    "name": "Source",
     "displayName": "SquidzInk",
     "synced": "synced",
     "logo": {
@@ -192,5 +192,5 @@
         }
     },
     "theme": "taste",
-    "syncDate": 1605806514557
+    "syncDate": 1605886434233
 }
