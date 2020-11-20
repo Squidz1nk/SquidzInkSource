@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///E:\Documents\Publii\sites\squidzink\preview/sitemap.xml

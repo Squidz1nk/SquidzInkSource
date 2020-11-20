@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Authors",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1605671581581,
+                "label": "Josiah",
+                "title": "",
+                "type": "author",
+                "target": "_self",
+                "rel": "",
+                "link": "josiah-mccracken",
+                "cssClass": "",
+                "items": []
+            },
+            {
+                "id": 1605671592695,
+                "label": "Hayley",
+                "title": "",
+                "type": "author",
+                "target": "_self",
+                "rel": "",
+                "link": "hayley-cook",
+                "cssClass": "",
+                "items": []
+            }
+        ]
+    }
+]

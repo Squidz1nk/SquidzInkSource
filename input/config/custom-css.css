@@ -1,0 +1,46 @@
+:root {
+  --page-margin: 6vw;
+  --page-width: 1200px;
+  --entry-width: 62ch;
+  --header-height: 4rem;
+  --border-radius: 8px;
+  --card-image-height: 9rem;
+  --line-height: 1.6;
+  --font-weight-normal: 400;
+  --font-weight-bold: 600;
+  --headings-weight: 600;
+  --red: #f73859;
+  --white: #dbedf3;
+  --black: #283149;
+  --dblue: #283149;
+  --blue: #283149;
+  --gray-1: #dbedf3;
+  --gray-2: #dbedf3;
+  --lblue: #404b69;
+  --lighter: #dbedf3;
+  --color: #dbedf3;
+  --text-color: #dbedf3;
+  --headings-color: #dbedf3;
+  --link-color: #f73859;
+  --link-color-hover: #dbedf3;
+}
+body{
+  background-image: url("https://www.transparenttextures.com/patterns/ice-age.png");
+}
+.post__entry{
+  background-color: rgba(40,49,73,.7);
+  padding: 1em;
+  border-radius: 25px;
+}
+.navbar_mobile_overlay{
+    background-color: rgba(40,49,73,.8);
+}
+.navbar_mobile_overlay .navbar__menu li a{
+  color: var(--white);
+}
+.navbar_mobile_overlay .navbar__menu li a:hover{
+  color: var(--red);
+}
+.navbar .navbar__toggle-inner::after, .navbar .navbar__toggle-inner::before, .navbar .navbar__toggle-inner{
+  background-color: var(--white);
+}

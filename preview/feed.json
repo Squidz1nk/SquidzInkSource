@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "SquidzInk",
+    "description": "",
+    "home_page_url": "file:///E:\Documents\Publii\sites\squidzink\preview",
+    "feed_url": "file:///E:\Documents\Publii\sites\squidzink\preview/feed.json",
+    "user_comment": "",
+    "icon": "file:///E:/Documents/Publii/sites/squidzink/preview/media/website/Artboard-1.png",
+    "author": {
+        "name": "Josiah McCracken"
+    },
+    "items": [
+        {
+            "id": "file:///E:\Documents\Publii\sites\squidzink\preview/josiahs-head/index.html",
+            "url": "file:///E:\Documents\Publii\sites\squidzink\preview/josiahs-head/index.html",
+            "title": "Josiah&#x27;s Head",
+            "image": "file:///E:\Documents\Publii\sites\squidzink\preview/media/posts/3/IMG_0205-2.png",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T20:26:07-05:00",
+            "date_modified": "2020-11-17T21:46:11-05:00"
+        },
+        {
+            "id": "file:///E:\Documents\Publii\sites\squidzink\preview/ragged/index.html",
+            "url": "file:///E:\Documents\Publii\sites\squidzink\preview/ragged/index.html",
+            "title": "Ragged",
+            "summary": "And so The ragged rascal ran beyond his little field and into the woods where he sat on a log&hellip;",
+            "content_html": "<p>And so The ragged rascal ran beyond his little field and into the woods where he sat on a log and picked at the bark with his freshly cut fingernails. Dirt mixed with blood beneath them and he winced at the uncomfortable sensation.</p>",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T19:55:40-05:00",
+            "date_modified": "2020-11-17T21:23:10-05:00"
+        },
+        {
+            "id": "file:///E:\Documents\Publii\sites\squidzink\preview/this-is-a-test-post/index.html",
+            "url": "file:///E:\Documents\Publii\sites\squidzink\preview/this-is-a-test-post/index.html",
+            "title": "This is a test post",
+            "summary": "This is my test post so I can see what will happen when I do things here Lah dee dah",
+            "content_html": "<p>This is my test post so I can see what will happen when I do things here Lah dee dah</p>",
+            "author": {
+                "name": "Josiah McCracken"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-17T19:53:58-05:00",
+            "date_modified": "2020-11-17T19:53:58-05:00"
+        }
+    ]
+}
